@@ -10,3 +10,6 @@ commit link:
 https://github.com/bismashaikh2912/profiles-apps/commit/b23689368c30c3f230f7856976f405496bb1724a
 
 screenshort name: screenshot-react.png
+
+Live demo:
+https://bismashaikh2912.github.io/profiles-apps/
