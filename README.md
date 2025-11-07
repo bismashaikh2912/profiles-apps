@@ -40,7 +40,7 @@ Link to commit diff that introduced components and .map() -  https://github.com/
 - Added a Like button that increments likes immutably.
 - State updates are visible instantly without refresh.
 
-###Forms & Validation (DOK‑2)
+## Forms & Validation (DOK‑2)
 Added new profiles via a controlled form with validation.
 
 Screenshots:
