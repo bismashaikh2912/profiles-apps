@@ -13,3 +13,7 @@ screenshort name: screenshot-react.png
 
 Live demo:
 https://bismashaikh2912.github.io/profiles-apps/
+
+Screenshot of rendered cards (filename)- screenshot-render-cards.PNG
+
+Link to commit diff that introduced components and .map() -  https://github.com/bismashaikh2912/profiles-apps/commit/6d28cf9b97248fcac23e13b66aa932ebc3711f73
