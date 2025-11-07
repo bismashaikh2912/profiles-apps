@@ -1,6 +1,5 @@
 # Profiles App (Lab 1)
 This project is built using Vite + React and styled with React-Bootstrap.  
-It displays a simple “Hello React” message inside a Bootstrap alert component.
 
 Features:
 - Initialized with Vite for fast development
@@ -11,7 +10,6 @@ Features:
 \ ```bash
 npm install
 npm run dev
-# open the shown URL (e.g., http://localhost:5173)
 \ ```
 
 ## Build
@@ -41,3 +39,11 @@ Link to commit diff that introduced components and .map() -  https://github.com/
 - Implemented React `useState` for profile data.
 - Added a Like button that increments likes immutably.
 - State updates are visible instantly without refresh.
+
+###Forms & Validation (DOK‑2)
+Added new profiles via a controlled form with validation.
+
+Screenshots:
+screenshot-AddNewProfile.PNG
+screenshot-AddingSameName.PNG
+screenshot-emptyInputError.PNG
